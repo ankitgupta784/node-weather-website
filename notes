@@ -1,1 +1,9 @@
 nodemon src/app.js -e js,hbs
+
+heroku CLI
+
+
+-- heroku -version
+herok login
+heroku keys:add
+heroku create 
