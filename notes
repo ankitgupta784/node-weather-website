@@ -7,3 +7,8 @@ heroku CLI
 herok login
 heroku keys:add
 heroku create 
+
+
+For inspect and debugger 
+
+node inspect app.js
