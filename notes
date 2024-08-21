@@ -8,7 +8,7 @@ herok login
 heroku keys:add
 heroku create 
 
-
+//Node js inspector
 For inspect and debugger 
 
 node inspect app.js
